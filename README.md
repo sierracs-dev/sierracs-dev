@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sierra-cs or Sierra
-- 👀 I’m interested in becoming a Software Engineer at Apple
-- 🌱 I’m currently learning Java and refining my C++ skills
-- 💞️ I’m looking to collaborate on a personal website
-- 📫 How to reach me IG: sierra.chassity or email: sierrachassity.0999@gmail.com
+- 👋 Hi, I’m @sierracs.dev or Sierra
+- 👀 I’m interested in becoming a Full Stack Developer (Freelance)
+- 🌱 I’m currently studying @ The Univeristy of Phoenix, fully online.
+- 💞️ I’m looking for mentors.
+- 📫 How to reach me IG: sierrac.dev or email: sierracstephenson9@gmail.com
 
 <!---
 sierra-cs/sierra-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
