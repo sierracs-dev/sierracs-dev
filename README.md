@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sierra
-- 👀 I’m interested in becoming a Full Stack Developer (Freelance)
+- 👀 I’m interested in becoming a Front-End Developer (Freelance)
 - 🌱 I’m currently studying @ The Univeristy of Phoenix, fully online.
 - 💞️ I’m looking for mentors.
 - 📫 How to reach me IG: sierrac.dev or email: sierracstephenson9@gmail.com
